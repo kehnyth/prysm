@@ -1,0 +1,1 @@
+No Content: https://assets.itsoffbrand.io/vital-scroll.js
